@@ -35,6 +35,15 @@ Figure -02 HALF Subtractor
 
 **Truthtable**
 
+1.HALF SUBTRACTOR
+
+![WhatsApp Image 2024-12-21 at 09 36 53_6fc84887](https://github.com/user-attachments/assets/949f894a-27b0-44cf-9958-4718c9ad0fde)
+
+2.HALF ADDER
+
+![WhatsApp Image 2024-12-21 at 09 37 48_51ee18a7](https://github.com/user-attachments/assets/a8224682-edea-44b9-a23d-c7f2e10c34ec)
+
+
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -69,11 +78,27 @@ endmodule
 
 **RTL Schematic**
 
-![image](https://github.com/user-attachments/assets/f8a2a692-dba8-40ae-be00-0198a5ac75b1)
+1.HALF ADDER
+
+![image](https://github.com/user-attachments/assets/354189a4-d973-4a3c-9834-bb8af143578b)
+
+2.HALF SUBTRACTOR
+
+![image](https://github.com/user-attachments/assets/c8971e1d-840a-4cda-b1eb-80761aca0e3c)
+
 
 
 **Output/TIMING Waveform**
-![image](https://github.com/user-attachments/assets/536b85a8-da90-451b-81b0-98b975a708ed)
+1.HALF ADDER
+
+![image](https://github.com/user-attachments/assets/2e546267-5e02-437e-b0be-c3a08683ab5b)
+
+2.HALF SUBTRACTOR
+
+![image](https://github.com/user-attachments/assets/30b80242-00f5-40f9-9807-ba97d86c19b2)
+
+
+
 
 
 **Result:**
